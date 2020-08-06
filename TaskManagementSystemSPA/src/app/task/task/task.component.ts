@@ -10,7 +10,10 @@ import { AllTask } from 'src/app/models/allTask';
 })
 export class TaskComponent implements OnInit {
 userId:number;
-allTask:AllTask;
+allTask:AllTask={
+  tasks:[],
+  tasksHistory:[]
+};
   constructor(private route:ActivatedRoute, private taskService:TaskService) { 
     this.route.paramMap.subscribe((params) => {
       this.userId = +params.get('id');

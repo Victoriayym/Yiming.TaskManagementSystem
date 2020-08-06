@@ -1,0 +1,21 @@
+<h2>Users</h2>
+<table class="table table-striped">
+  <thead>
+  <tr>
+    <th scope="col">UserId</th>
+    <th scope="col">Email</th>
+    <th scope="col">UserName</th>
+    <th scope="col">MobileNo</th>
+  </tr>
+  </thead>
+  <tbody>
+<tr *ngFor="let user of users">
+    <td>{{ user.id}}</td>
+    <td>
+      {{ user.email }}
+    </td>
+    <td><a routerLink="/user/alltasks/{{user.id}}">{{ user.fullName }}</a></td>
+    <td>{{ user.mobileno }}</td>
+  </tr>
+  </tbody>
+</table>

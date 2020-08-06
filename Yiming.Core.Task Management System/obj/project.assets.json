@@ -1043,11 +1043,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dell\\Desktop\\FinalEvaluation\\Yiming.Core.Task Management System\\Yiming.Core.Task Management System.csproj",
+      "projectUniqueName": "C:\\Yiming.TaskManagementSystem\\Yiming.Core.Task Management System\\Yiming.Core.Task Management System.csproj",
       "projectName": "Yiming.Core.Task Management System",
-      "projectPath": "C:\\Users\\dell\\Desktop\\FinalEvaluation\\Yiming.Core.Task Management System\\Yiming.Core.Task Management System.csproj",
+      "projectPath": "C:\\Yiming.TaskManagementSystem\\Yiming.Core.Task Management System\\Yiming.Core.Task Management System.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dell\\Desktop\\FinalEvaluation\\Yiming.Core.Task Management System\\obj\\",
+      "outputPath": "C:\\Yiming.TaskManagementSystem\\Yiming.Core.Task Management System\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dell\\Desktop\\FinalEvaluation\\Yiming.Infrastructure.TaskManagementSystem\\Yiming.Infrastructure.TaskManagementSystem.csproj": {}
+    "C:\\Yiming.TaskManagementSystem\\Yiming.Infrastructure.TaskManagementSystem\\Yiming.Infrastructure.TaskManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dell\\Desktop\\FinalEvaluation\\Yiming.Core.Task Management System\\Yiming.Core.Task Management System.csproj": {
+    "C:\\Yiming.TaskManagementSystem\\Yiming.Core.Task Management System\\Yiming.Core.Task Management System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dell\\Desktop\\FinalEvaluation\\Yiming.Core.Task Management System\\Yiming.Core.Task Management System.csproj",
+        "projectUniqueName": "C:\\Yiming.TaskManagementSystem\\Yiming.Core.Task Management System\\Yiming.Core.Task Management System.csproj",
         "projectName": "Yiming.Core.Task Management System",
-        "projectPath": "C:\\Users\\dell\\Desktop\\FinalEvaluation\\Yiming.Core.Task Management System\\Yiming.Core.Task Management System.csproj",
+        "projectPath": "C:\\Yiming.TaskManagementSystem\\Yiming.Core.Task Management System\\Yiming.Core.Task Management System.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dell\\Desktop\\FinalEvaluation\\Yiming.Core.Task Management System\\obj\\",
+        "outputPath": "C:\\Yiming.TaskManagementSystem\\Yiming.Core.Task Management System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\dell\\Desktop\\FinalEvaluation\\Yiming.Infrastructure.TaskManagementSystem\\Yiming.Infrastructure.TaskManagementSystem.csproj": {
+    "C:\\Yiming.TaskManagementSystem\\Yiming.Infrastructure.TaskManagementSystem\\Yiming.Infrastructure.TaskManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dell\\Desktop\\FinalEvaluation\\Yiming.Infrastructure.TaskManagementSystem\\Yiming.Infrastructure.TaskManagementSystem.csproj",
+        "projectUniqueName": "C:\\Yiming.TaskManagementSystem\\Yiming.Infrastructure.TaskManagementSystem\\Yiming.Infrastructure.TaskManagementSystem.csproj",
         "projectName": "Yiming.Infrastructure.TaskManagementSystem",
-        "projectPath": "C:\\Users\\dell\\Desktop\\FinalEvaluation\\Yiming.Infrastructure.TaskManagementSystem\\Yiming.Infrastructure.TaskManagementSystem.csproj",
+        "projectPath": "C:\\Yiming.TaskManagementSystem\\Yiming.Infrastructure.TaskManagementSystem\\Yiming.Infrastructure.TaskManagementSystem.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dell\\Desktop\\FinalEvaluation\\Yiming.Infrastructure.TaskManagementSystem\\obj\\",
+        "outputPath": "C:\\Yiming.TaskManagementSystem\\Yiming.Infrastructure.TaskManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -86,8 +86,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\dell\\Desktop\\FinalEvaluation\\Yiming.Core.Task Management System\\Yiming.Core.Task Management System.csproj": {
-                "projectPath": "C:\\Users\\dell\\Desktop\\FinalEvaluation\\Yiming.Core.Task Management System\\Yiming.Core.Task Management System.csproj"
+              "C:\\Yiming.TaskManagementSystem\\Yiming.Core.Task Management System\\Yiming.Core.Task Management System.csproj": {
+                "projectPath": "C:\\Yiming.TaskManagementSystem\\Yiming.Core.Task Management System\\Yiming.Core.Task Management System.csproj"
               }
             }
           }

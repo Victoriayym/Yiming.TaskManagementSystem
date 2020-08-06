@@ -10,3 +10,15 @@ C:\Users\dell\Desktop\FinalEvaluation\Yiming.Infrastructure.TaskManagementSystem
 C:\Users\dell\Desktop\FinalEvaluation\Yiming.Infrastructure.TaskManagementSystem\obj\Debug\netstandard2.0\Yiming.Infrastructure.TaskManagementSystem.csproj.CopyComplete
 C:\Users\dell\Desktop\FinalEvaluation\Yiming.Infrastructure.TaskManagementSystem\obj\Debug\netstandard2.0\Yiming.Infrastructure.TaskManagementSystem.dll
 C:\Users\dell\Desktop\FinalEvaluation\Yiming.Infrastructure.TaskManagementSystem\obj\Debug\netstandard2.0\Yiming.Infrastructure.TaskManagementSystem.pdb
+C:\Yiming.TaskManagementSystem\Yiming.Infrastructure.TaskManagementSystem\bin\Debug\netstandard2.0\Yiming.Infrastructure.TaskManagementSystem.deps.json
+C:\Yiming.TaskManagementSystem\Yiming.Infrastructure.TaskManagementSystem\bin\Debug\netstandard2.0\Yiming.Infrastructure.TaskManagementSystem.dll
+C:\Yiming.TaskManagementSystem\Yiming.Infrastructure.TaskManagementSystem\bin\Debug\netstandard2.0\Yiming.Infrastructure.TaskManagementSystem.pdb
+C:\Yiming.TaskManagementSystem\Yiming.Infrastructure.TaskManagementSystem\bin\Debug\netstandard2.0\Yiming.Core.Task Management System.dll
+C:\Yiming.TaskManagementSystem\Yiming.Infrastructure.TaskManagementSystem\bin\Debug\netstandard2.0\Yiming.Core.Task Management System.pdb
+C:\Yiming.TaskManagementSystem\Yiming.Infrastructure.TaskManagementSystem\obj\Debug\netstandard2.0\Yiming.Infrastructure.TaskManagementSystem.csprojAssemblyReference.cache
+C:\Yiming.TaskManagementSystem\Yiming.Infrastructure.TaskManagementSystem\obj\Debug\netstandard2.0\Yiming.Infrastructure.TaskManagementSystem.AssemblyInfoInputs.cache
+C:\Yiming.TaskManagementSystem\Yiming.Infrastructure.TaskManagementSystem\obj\Debug\netstandard2.0\Yiming.Infrastructure.TaskManagementSystem.AssemblyInfo.cs
+C:\Yiming.TaskManagementSystem\Yiming.Infrastructure.TaskManagementSystem\obj\Debug\netstandard2.0\Yiming.Infrastructure.TaskManagementSystem.csproj.CoreCompileInputs.cache
+C:\Yiming.TaskManagementSystem\Yiming.Infrastructure.TaskManagementSystem\obj\Debug\netstandard2.0\Yiming.Infrastructure.TaskManagementSystem.csproj.CopyComplete
+C:\Yiming.TaskManagementSystem\Yiming.Infrastructure.TaskManagementSystem\obj\Debug\netstandard2.0\Yiming.Infrastructure.TaskManagementSystem.dll
+C:\Yiming.TaskManagementSystem\Yiming.Infrastructure.TaskManagementSystem\obj\Debug\netstandard2.0\Yiming.Infrastructure.TaskManagementSystem.pdb

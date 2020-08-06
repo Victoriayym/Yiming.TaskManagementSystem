@@ -30,13 +30,13 @@
   </tr>
   </thead>
   <tbody>
-  <tr *ngFor="let task of allTask.tasksHistory">
-    <td>{{ task.taskId}}</td>
+  <tr *ngFor="let taskHistory of allTask.tasksHistory">
+    <td>{{ taskHistory.taskId}}</td>
     <td>
-      {{ task.title }}
+      {{ taskHistory.title }}
     </td>
-    <td>{{ task.user.fullName }}</td>
-    <td>{{ task.description }}</td>
+    <td>{{ taskHistory.user.fullName }}</td>
+    <td>{{ taskHistory.description }}</td>
   </tr>
   </tbody>
 </table>

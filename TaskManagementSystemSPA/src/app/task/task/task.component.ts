@@ -11,16 +11,19 @@ import { AllTask } from 'src/app/models/allTask';
 export class TaskComponent implements OnInit {
 userId:number;
 allTask:AllTask;
-  constructor(private route:ActivatedRoute, private taskService:TaskService) { }
-
-  ngOnInit(): void {
+  constructor(private route:ActivatedRoute, private taskService:TaskService) { 
     this.route.paramMap.subscribe((params) => {
       this.userId = +params.get('id');
+      console.log(this.userId);
       this.taskService.getAllTasks(this.userId).subscribe((t) => {
         this.allTask= t;
         console.log(this.allTask);
       });
     });
+  }
+
+  ngOnInit(): void {
+    
   }
 
 }

@@ -1,0 +1,9 @@
+C:\Users\dell\Desktop\FinalEvaluation\Yiming.Core.Task Management System\bin\Debug\netstandard2.0\Yiming.Core.Task Management System.deps.json
+C:\Users\dell\Desktop\FinalEvaluation\Yiming.Core.Task Management System\bin\Debug\netstandard2.0\Yiming.Core.Task Management System.dll
+C:\Users\dell\Desktop\FinalEvaluation\Yiming.Core.Task Management System\obj\Debug\netstandard2.0\Yiming.Core.Task Management System.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\FinalEvaluation\Yiming.Core.Task Management System\obj\Debug\netstandard2.0\Yiming.Core.Task Management System.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\FinalEvaluation\Yiming.Core.Task Management System\obj\Debug\netstandard2.0\Yiming.Core.Task Management System.AssemblyInfo.cs
+C:\Users\dell\Desktop\FinalEvaluation\Yiming.Core.Task Management System\bin\Debug\netstandard2.0\Yiming.Core.Task Management System.pdb
+C:\Users\dell\Desktop\FinalEvaluation\Yiming.Core.Task Management System\obj\Debug\netstandard2.0\Yiming.Core.Task Management System.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\FinalEvaluation\Yiming.Core.Task Management System\obj\Debug\netstandard2.0\Yiming.Core.Task Management System.dll
+C:\Users\dell\Desktop\FinalEvaluation\Yiming.Core.Task Management System\obj\Debug\netstandard2.0\Yiming.Core.Task Management System.pdb
